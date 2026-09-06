@@ -13,7 +13,7 @@ A solo end-to-end machine learning project that predicts used car prices on the 
 
 ## Dataset
 
-[Used Cars Database — eBay Kleinanzeigen Germany](https://www.kaggle.com/datasets/orgesleka/used-cars-database)  
+[Germany Used Cars Dataset 2023](https://www.kaggle.com/datasets/wspirat/germany-used-cars-dataset-2023)  
 ~370,000 listings · German market · Downloaded from Kaggle
 
 > The `data/` folder is gitignored (file size). Download `autos.csv` from the link above and place it in `data/autos.csv` to run this project.
@@ -22,8 +22,8 @@ A solo end-to-end machine learning project that predicts used car prices on the 
 
 ```bash
 # Clone the repo
-git clone https://github.com/mudittrajpal/used-car-price-predictor.git
-cd used-car-price-predictor
+git clone https://github.com/mudittrajpal/Used-car-price-predictor.git
+cd Used-car-price-predictor
 
 # Install dependencies
 pip install -r requirements.txt
