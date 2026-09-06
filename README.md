@@ -44,9 +44,7 @@ python step4_api.py
 
 ## Results
 
-| Model | RMSE | R² |
-|---|---|---|
-| Linear Regression | TBD | TBD |
-| Random Forest | TBD | TBD |
-
-*(Results updated after training in Step 3)*
+| Model | RMSE | MAE | R² |
+|---|---|---|---|
+| Linear Regression | €10,003 | €6,096 | 0.71 |
+| Random Forest | €5,799 | €2,950 | 0.90 |
